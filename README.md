@@ -9,4 +9,4 @@ In this repository we will cover the basic of GIT
 
 [GitHub](http://github.com)
 
-![GitHub Logo](/images/logo.png)
+![Free image](https://upload.wikimedia.org/wikipedia/commons/6/68/%28Mlle_Peschard%29_%28photographie_tirage_%28...%29Atelier_Nadar_btv1b53082251n.jpg)
